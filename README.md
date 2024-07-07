@@ -27,8 +27,9 @@ This repository contains the solutions for the Silicon Valley Immersion Program 
 - **Operational Efficiency**: Phased rollout, Continuous monitoring and optimization. Impact: Minimal disruption to operations and scalability.
 
 ## How to View
-- View the presentation [here](./path_to_presentation_file).
-- Download the PDF solution [here](./path_to_pdf_file).
+- View the presentation [here](./presentation/SVIP_Round2_Presentation.pdf).
+- Download the PDF solution [here](./solutions/SVIP_Round2_Solution.pdf).
 
 ## Contact
 For any queries, please contact srivastavasiddharth2003@gmail.com
+
